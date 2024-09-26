@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Cubit",
   "resources": {
-    "hash": "sha256-5oaNHbGbSsUeU6Vjq5fZCRsHQ9U7mrddBmVLZBqzC9Y=",
+    "hash": "sha256-qARzCKHL3B27tRtJQnKqoWJoQex2MG27u2hwgm6RlXI=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.2e1dwo22j6.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Cubit.wasm": "sha256-GPVrCc1MAkDh27NxoHQuqhfXgL8BjBTr2qkF+AbSbDE=",
+      "Cubit.wasm": "sha256-tXkuVwFKtl4BsjfSD/8QAaf7RNdpn+SRCg94eULNOmg=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-JMmtdcNlmkJl8Ody+Dx5qffKxurAKzM0ZmFrKbNOIlU=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-8YwTwHYqDRX7/K5DSMFoyXxthoYLD9+aoTlxr7CpeNo=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-8keDp3tKWnQ6bLZbdA+ohbANApw02/fhmdqkQVgirGM=",
